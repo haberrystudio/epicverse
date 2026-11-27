@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  experimental: { workerThreads: true, cpus: 3 },
   cacheComponents: true,
   partialPrefetching: true,
   turbopack: {

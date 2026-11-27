@@ -1,0 +1,160 @@
+// Entries follow narrative order rather than assigning historical dates to the epic.
+export const lifeEvents: Record<string, string[]> = {
+  sharmishtha: [
+    "Enters Devayani’s household after their dispute.",
+    "Bears Druhyu, Anu and Puru to Yayati.",
+    "Her youngest son inherits the kingdom.",
+  ],
+  devayani: [
+    "Marries Yayati.",
+    "Bears Yadu and Turvasu.",
+    "Brings the dispute over Sharmishtha before Shukra.",
+  ],
+  dushyanta: [
+    "Meets Shakuntala in Kanva’s hermitage.",
+    "Receives her and their child at court.",
+    "Acknowledges Bharata as his son.",
+  ],
+  shakuntala: [
+    "Grows up in Kanva’s hermitage.",
+    "Marries Dushyanta and raises their son there.",
+    "Presents the child at the royal court.",
+  ],
+  bharata: [
+    "Grows up as Sarvadamana in the hermitage.",
+    "Is recognised by Dushyanta.",
+    "Becomes the namesake of the Bharata line.",
+  ],
+  shantanu: [
+    "Marries Ganga.",
+    "Receives Devavrata back from his mother.",
+    "Marries Satyavati after Devavrata’s vow.",
+    "Leaves two sons by Satyavati.",
+  ],
+  satyavati: [
+    "Bears Vyasa to Parashara.",
+    "Marries Shantanu.",
+    "Loses both royal sons.",
+    "Calls on Vyasa to continue the succession.",
+  ],
+  ganga: [
+    "Marries Shantanu under a condition of silence.",
+    "Departs with their surviving child.",
+    "Returns Devavrata to the king.",
+  ],
+  vyasa: [
+    "Is born to Parashara and Satyavati.",
+    "Answers Satyavati’s summons.",
+    "Fathers Dhritarashtra, Pandu and Vidura through niyoga.",
+  ],
+  dhritarashtra: [
+    "Is born blind to Ambika.",
+    "Marries Gandhari.",
+    "Presides over the divided royal household.",
+    "Retires to the forest after the war.",
+  ],
+  vidura: [
+    "Is born to Vyasa and the attendant.",
+    "Warns the Pandavas of the danger at Varanavata.",
+    "Challenges the actions of the dice assembly.",
+  ],
+  kunti: [
+    "Is raised in Kuntibhoja’s household.",
+    "Invokes Surya and gives birth to Karna.",
+    "Bears three sons in Pandu’s forest household.",
+    "Brings the five Pandavas back to Hastinapura.",
+  ],
+  gandhari: [
+    "Marries Dhritarashtra and covers her eyes.",
+    "Becomes mother to the Kauravas.",
+    "Grieves for her children after the war.",
+    "Retires to the forest with the elders.",
+  ],
+  madri: [
+    "Marries Pandu.",
+    "Invokes the Ashvins and bears twins.",
+    "Entrusts Nakula and Sahadeva to Kunti at Pandu’s death.",
+  ],
+  yudhishthira: [
+    "Presides over the royal sacrifice at Indraprastha.",
+    "Loses his kingdom in the game of dice.",
+    "Completes exile and leads the Pandava cause.",
+    "Receives Bhishma’s teaching.",
+    "Leaves the kingdom to Parikshit.",
+  ],
+  bhima: [
+    "Has a son with Hidimbi in the forest.",
+    "Vows vengeance in the dice hall.",
+    "Defeats Duryodhana in the mace duel.",
+    "Sets out on the last journey.",
+  ],
+  arjuna: [
+    "Studies the use of arms under Drona.",
+    "Wins the archery contest in Panchala.",
+    "Marries Subhadra, mother of Abhimanyu.",
+    "Receives Krishna’s teaching at Kurukshetra.",
+    "Defeats Karna in battle.",
+  ],
+  nakula: [
+    "Is born in the forest to Madri.",
+    "Spends the concealed year tending Virata’s horses.",
+    "Fights alongside his brothers.",
+    "Joins the last journey.",
+  ],
+  sahadeva: [
+    "Is born as Nakula’s twin.",
+    "Tends the cattle of Virata during the concealed year.",
+    "Kills Shakuni at Kurukshetra.",
+    "Sets out with his brothers on the last journey.",
+  ],
+  draupadi: [
+    "Emerges from Drupada’s sacrificial fire.",
+    "Marries the five Pandavas.",
+    "Questions the dice assembly.",
+    "Accompanies the Pandavas in exile.",
+    "Mourns her five sons after the night raid.",
+  ],
+  subhadra: [
+    "Marries Arjuna.",
+    "Gives birth to Abhimanyu.",
+    "Loses her son at Kurukshetra.",
+    "Her grandson Parikshit continues the succession.",
+  ],
+  karna: [
+    "Is raised by Radha and Adhiratha.",
+    "Receives the kingdom of Anga from Duryodhana.",
+    "Spends his divine dart against Ghatotkacha.",
+    "Dies in combat with Arjuna.",
+  ],
+  duryodhana: [
+    "Competes with the Pandavas at Hastinapura.",
+    "Supports Karna at the exhibition of arms.",
+    "Takes possession of the Pandavas’ kingdom through dice.",
+    "Falls in a mace duel against Bhima.",
+  ],
+  dushasana: [
+    "Supports his elder brother in the succession dispute.",
+    "Brings Draupadi to the dice hall.",
+    "Dies fighting Bhima.",
+  ],
+  vikarna: [
+    "Objects to Draupadi’s treatment in the assembly.",
+    "Fights for his brothers at Kurukshetra.",
+  ],
+  abhimanyu: [
+    "Is born to Arjuna and Subhadra.",
+    "Marries Uttara in Matsya.",
+    "Enters the battle formation at Kurukshetra.",
+    "Dies surrounded by opposing warriors.",
+  ],
+  uttara: [
+    "Learns dance in Virata’s palace.",
+    "Marries Abhimanyu.",
+    "Bears Parikshit after the war.",
+  ],
+  parikshit: [
+    "Survives the attack on Uttara’s unborn child.",
+    "Succeeds the Pandavas.",
+    "His death prompts his son Janamejaya’s sacrifice.",
+  ],
+};
